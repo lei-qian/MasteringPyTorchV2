@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*-ubyte.gz
+*-ubyte
+data_batch_*
+*test_batch
+*.pth
+*python.tar.gz
